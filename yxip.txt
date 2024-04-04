@@ -8,4 +8,3 @@
 47.75.101.0:3443#HK1
 47.76.146.1:443#HK2
 47.245.26.167:2083#JP1
-hysteria2://dongtaiwang.com@62.210.103.0:22483/?sni=www.bing.com&insecure=1#hy-2
